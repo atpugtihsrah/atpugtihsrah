@@ -1,7 +1,10 @@
 ## Hi there, I'm Harshit 👋
 
-<img align="left" width="47%" alt="Harshit's stats" src="https://github-readme-stats.vercel.app/api?username=atpugtihsrah" />
-<img align="left" width="47%" alt="Harshit's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atpugtihsrah&langs_count=8" />
+<img alt="Harshit's stats" src="https://github-readme-stats.vercel.app/api?username=atpugtihsrah" />
+
+
+<!-- <img align="left" width="47%" alt="Harshit's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atpugtihsrah&langs_count=8" /> -->
+
 <!--
 **atpugtihsrah/atpugtihsrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
