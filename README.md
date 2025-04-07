@@ -29,8 +29,14 @@
    ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
  - **Monitoring:**<br/>
    ![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
+   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=black)
    ![ELK](https://img.shields.io/badge/-ELK-black?style=flat-square&logo=elastic-stack)
    ![Instana](https://img.shields.io/badge/-Instana-black?style=flat-square&logo=instana)
+ - **Tools:**<br/>
+   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+   ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
+   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=black)
+   ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=black)
     
 
 
