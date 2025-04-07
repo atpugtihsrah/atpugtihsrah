@@ -9,7 +9,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=atpugtihsrah)
 
-I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team. Love geeking out over distributed systems. Always up for a coffee ☕ and conversation! 
+I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team. Love geeking out over distributed systems. Always up for a conversation and a🍺 or a ☕ 😃
 
 <!-- 
 
