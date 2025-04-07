@@ -1,5 +1,8 @@
 ## Hi there, I'm Harshit 👋
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gtihsrah/)
+
+
 ## 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=atpugtihsrah)
