@@ -1,10 +1,12 @@
 ## Hi there, I'm Harshit 👋
 
----
+## 🙋‍♂️ About me
+
+![profile view count](https://komarev.com/ghpvc/?username=atpugtihsrah)
 
 <img alt="Harshit's stats" src="https://github-readme-stats.vercel.app/api?username=atpugtihsrah" />
 
----
+
 
 ## :zap: Technology
 
