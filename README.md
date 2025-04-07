@@ -9,7 +9,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=atpugtihsrah)
 
-I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team. Love geeking out over distributed systems. Always up for a conversation and a coffee ☕
+I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team. I am a backend developer by heart! Love geeking out over distributed systems. Always up for a conversation and a coffee ☕
 
 <!-- 
 
@@ -38,8 +38,6 @@ I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM In
    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=black)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
    ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat-square&logo=elasticsearch&logoColor=black)
-   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=black)
-   ![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=black)
 - **Message Brokers:**<br/>
    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=blue)
    ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=black)
@@ -57,7 +55,12 @@ I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM In
    ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=black)
    ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=black)
-    
+ - **Know my way around:**<br/>
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
+   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=black)
+   ![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=black)
 
 
 <!-- <img align="left" width="47%" alt="Harshit's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atpugtihsrah&langs_count=8" /> -->
