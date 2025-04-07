@@ -40,7 +40,7 @@ I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM In
    ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat-square&logo=elasticsearch&logoColor=black)
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=black)
    ![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=black)
-- **Databases:**<br/>
+- **Message Brokers:**<br/>
    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=blue)
    ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=black)
  - **Infrastructure:**<br/>
