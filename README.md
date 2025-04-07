@@ -11,10 +11,13 @@
 
 I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team. Love geeking out over distributed systems. Always up for a coffee ☕ and conversation! 
 
+<!-- 
 
 ## 🚧 My Stats
 
-<img alt="Harshit's stats" src="https://github-readme-stats.vercel.app/api?username=atpugtihsrah" />
+<img alt="Harshit's stats" src="https://github-readme-stats.vercel.app/api?username=atpugtihsrah" /> 
+
+-->
 
 ## 🔨 I've contributed to
 
