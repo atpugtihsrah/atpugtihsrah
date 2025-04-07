@@ -19,6 +19,8 @@ I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM In
 ## 🔨 I've contributed to
 
 [<img src="assets/flowg.png" height="50px">](https://github.com/link-society/flowg/pulls?q=author%3Aatpugtihsrah+)
+[<img src="assets/pipecd.png" height="50px">](https://github.com/pipe-cd/pipecd/pulls?q=author%3Aatpugtihsrah+)
+[<img src="assets/scylladb.png" height="50px">](https://github.com/scylladb/scylla-manager/pulls?q=author%3Aatpugtihsrah+)
 
 
 ## :zap: Technology
