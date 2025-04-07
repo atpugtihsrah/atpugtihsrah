@@ -8,7 +8,7 @@
 
 ## 🔨 I've contributed to
 
-[<img src="assets/flowg.png" height="50px">](https://github.com/link-society/flowg/pulls?q=author%3Aatpugtihsrah+)
+[<img src="assets/flowg.svg" height="50px">](https://github.com/link-society/flowg/pulls?q=author%3Aatpugtihsrah+)
 
 
 ## :zap: Technology
