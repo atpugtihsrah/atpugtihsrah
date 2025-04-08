@@ -11,20 +11,16 @@
 
 I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team <img style="height: 20px; width: 20px" src="assets/otel.png"> Backend developer by heart! Love geeking out over distributed systems. Always up for a conversation and a coffee ☕
 
-<!-- 
+<br>
 
-## 🚧 My Stats
-
-<img alt="Harshit's stats" src="https://github-readme-stats.vercel.app/api?username=atpugtihsrah" /> 
-
--->
-
-## 🔨 I've contributed to (You can click on the icons to see my contributions)
+## 🔨 I've contributed to
+You can click on the icons to see my contributions
 
 [<img src="assets/flowg.png" height="50px">](https://github.com/link-society/flowg/pulls?q=author%3Aatpugtihsrah+)
 [<img src="assets/pipecd.png" height="50px">](https://github.com/pipe-cd/pipecd/pulls?q=author%3Aatpugtihsrah+)
 [<img src="assets/scylladb.png" height="50px">](https://github.com/scylladb/scylla-manager/pulls?q=author%3Aatpugtihsrah+)
 
+<br />
 
 ## 🛠  Tech Stack
 
