@@ -11,7 +11,7 @@
 
 I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM Instana's Application Reading team <img style="height: 20px; width: 20px" src="assets/otel.png"> Backend developer by heart! Love geeking out over distributed systems. Always up for a conversation and a coffee ☕
 
-<br>
+<br />
 
 ## 🔨 I've contributed to
 Icons are clickable
