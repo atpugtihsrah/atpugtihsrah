@@ -26,7 +26,7 @@ I'm from India 🇮🇳 working in Germany 🇩🇪 as a Lead Engineer in IBM In
 [<img src="assets/scylladb.png" height="50px">](https://github.com/scylladb/scylla-manager/pulls?q=author%3Aatpugtihsrah+)
 
 
-## :zap: Technology
+## 🛠  Tech Stack
 
 - **Development:**<br/>
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black)
