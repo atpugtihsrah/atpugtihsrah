@@ -1,7 +1,7 @@
 ## Hi there, I'm Harshit 👋
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gtihsrah/)
-[![medium profile link](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#)
+[![medium profile link](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atpugtihsrah/)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)]  -->
 
 
