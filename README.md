@@ -15,8 +15,6 @@
 🧐 Love geeking out over distributed systems. <br />
 ☕ Always up for a conversation and a coffee.
 
-<br />
-
 ## 🔨 I've contributed to
 Icons are clickable
 
@@ -24,7 +22,11 @@ Icons are clickable
 [<img src="assets/pipecd.png" height="50px">](https://github.com/pipe-cd/pipecd/pulls?q=author%3Aatpugtihsrah+)
 [<img src="assets/scylladb.png" height="50px">](https://github.com/scylladb/scylla-manager/pulls?q=author%3Aatpugtihsrah+)
 
-<br />
+
+## ✍️ I've written about
+
+- Hedged Reads in Java - https://medium.com/@atpugtihsrah/hedged-read-in-java-c6f1d3296d19
+
 
 ## 🛠  Tech Stack
 
