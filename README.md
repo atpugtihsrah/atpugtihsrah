@@ -60,7 +60,6 @@ Icons are clickable
  - **Know my way around:**<br/>
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&logoColor=black)
    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
-   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=black)
    ![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=black)
 
